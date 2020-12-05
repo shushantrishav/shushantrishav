@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 #### Use This [Link](https://rishu20.github.io/) To Visit My Website
 ### You can Now Test Some Of My Apps Using [This Link](https://rishu20.pythonanywhere.com/)
-![Rishu's github stats](https://github-readme-stats.vercel.app/api?username=rishu20) ![Hactoberfest Badge](https://res.cloudinary.com/practicaldev/image/fetch/s--ipK3ZYfm--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/80/hacktoberfest2020-badge_2.png)
+![Rishu's github stats](https://github-readme-stats.vercel.app/api?username=rishu20) 
