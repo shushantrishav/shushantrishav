@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 #### Use This [Link](https://rishu20.github.io/) To Visit My Website
 ### You can Now Test Some Of My Apps Using [This Link](https://rishu20.pythonanywhere.com/)
-![Rishu's github stats](https://github-readme-stats.vercel.app/api?username=rishu20) 
+![Rishu's github stats](https://github-readme-stats.vercel.app/api?username=rishu20&show_icons=true&theme=radical) 
