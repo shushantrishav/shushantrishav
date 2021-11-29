@@ -1,6 +1,6 @@
 
 ![Header](https://github.com/Rishu20/rishu20/blob/main/Screenshot%202021-11-29%20184709.png)
-# My name is Shushant Rishav
+# My name is Shushant Rishav <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## These are my stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishu20&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu20&theme=dark)
