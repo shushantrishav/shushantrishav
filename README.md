@@ -1,5 +1,5 @@
 
-![Header](https://github.com/Rishu20/rishu20/blob/master/Screenshot%202021-11-29%20184709.png)
+![Header](https://github.com/Rishu20/rishu20/blob/main/Screenshot%202021-11-29%20184709.png)
 <!--
 **Rishu20/rishu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
