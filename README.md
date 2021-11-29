@@ -1,20 +1,17 @@
 
 ![Header](https://github.com/Rishu20/rishu20/blob/main/Screenshot%202021-11-29%20184709.png)
-<!--
-**Rishu20/rishu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-#### Use This [Link](https://rishu20.github.io/) To Visit My Website
-### You can Now Test Some Of My Apps Using [This Link](https://rishu20.pythonanywhere.com/)
+# My name is Shushant Rishav
+## These are my stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishu20&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu20&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu20&theme=dark)
+###
+![Contribution graph](https://activity-graph.herokuapp.com/graph?username=rishu20&theme=react-dark)
+# Visit My Website
+
+[![image](https://github.com/Rishu20/rishu20/blob/main/Screenshot%202021-11-29%20200002.png)](https://rishu20.github.io)
+## Find Me On :
+[![LinkedIn](https://cdn-icons-png.flaticon.com/32/174/174857.png)](https://www.linkedin.com/in/shushantrishav/) [![Twitter](https://cdn-icons-png.flaticon.com/32/1312/1312142.png)](https://twitter.com/ShushantRishav) [![Facebook](https://cdn-icons-png.flaticon.com/32/733/733547.png)](https://www.facebook.com/ShushantRishav/) [![Instagram](https://cdn-icons-png.flaticon.com/32/2111/2111463.png)](https://www.instagram.com/ri.shu20/)
+##
+![Profile views](https://gpvc.arturio.dev/rishu20)  
+
+
