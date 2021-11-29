@@ -1,5 +1,5 @@
-### Hi there 👋
 
+![Header](https://github.com/Rishu20/rishu20/blob/master/Screenshot%202021-11-29%20184709.png)
 <!--
 **Rishu20/rishu20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 #### Use This [Link](https://rishu20.github.io/) To Visit My Website
 ### You can Now Test Some Of My Apps Using [This Link](https://rishu20.pythonanywhere.com/)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishu20&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu20&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rishu20&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rishu20&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3)
