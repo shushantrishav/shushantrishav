@@ -72,25 +72,31 @@ A scalable machine learning pipeline for malware risk prediction on enterprise t
 [website]: https://www.shushantrishav.in/
 [linkedin]: https://www.linkedin.com/in/shushantrishav/
 [gmail]: mailto:shushantrishav90@gmail.com
+[efset]: https://cert.efset.org/en/6z5hEW
+[pyforeve]: https://www.coursera.org/account/accomplishments/specialization/certificate/29TMV49T74W2
+[itauto]: https://www.coursera.org/account/accomplishments/specialization/certificate/X57REFFJ77M6
+[linux]: https://www.coursera.org/account/accomplishments/specialization/certificate/JNZG93GRLQKV
+[mlongoogle]: https://www.coursera.org/account/accomplishments/specialization/certificate/S8F3PFAKQXLP
+[gce]: https://www.coursera.org/account/accomplishments/specialization/certificate/2VPNCJT9TLRN
 
 ---
 
 ## 📜 Certifications  
 
-- [**EF SET English Certificate (C2 Proficient)**](https://cert.efset.org/en/6z5hEW) — *EF SET*  
+- [**EF SET English Certificate (C2 Proficient)**][efset] — *EF SET*  
   *Focus Areas:* English language proficiency (C2 level)
 
-- [**Python for Everybody Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/29TMV49T74W2) — *University of Michigan*  
+- [**Python for Everybody Specialization**][pyforeve] — *University of Michigan*  
   *Skills:* Python Programming, Data Structures, Programming Principles, Computational Thinking, Software Engineering, Problem Solving  
 
-- [**Google IT Automation with Python Professional Certificate**](https://www.coursera.org/account/accomplishments/specialization/certificate/X57REFFJ77M6) — *Google*  
+- [**Google IT Automation with Python Professional Certificate**][itauto] — *Google*  
   *Skills:* Python Programming, Google Cloud Platform, IT Automation, Cloud Computing, Collaboration, Data Structures, Problem Solving, Leadership  
 
-- [**Open Source Software Development, Linux and Git Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/JNZG93GRLQKV) — *The Linux Foundation*  
+- [**Open Source Software Development, Linux and Git Specialization**][linux] — *The Linux Foundation*  
   *Skills:* Operating Systems, Linux, System Software, Application Development, DevOps Tools, Git, Software Engineering  
 
-- [**Machine Learning on Google Cloud Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/S8F3PFAKQXLP) — *Google Cloud*  
+- [**Machine Learning on Google Cloud Specialization**][mlongoogle] — *Google Cloud*  
   *Skills:* Applied Machine Learning, Google Cloud Platform, Deep Learning, Neural Networks, Cloud Computing, Machine Learning Algorithms  
 
-- [**Architecting with Google Compute Engine Specialization**](https://www.coursera.org/account/accomplishments/specialization/certificate/2VPNCJT9TLRN) — *Google Cloud*  
+- [**Architecting with Google Compute Engine Specialization**][gce] — *Google Cloud*  
   *Skills:* Cloud Infrastructure, Google App Engine, Kubernetes, Cloud Storage, Cloud Platforms, Leadership and Cloud System Architecture  
