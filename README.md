@@ -62,8 +62,8 @@ A scalable machine learning pipeline for malware risk prediction on enterprise t
 
 <p align="center" >
   <img src="https://loc-bars-fastapi.onrender.com/api/v2/language-svg" alt="Github Top Languages" /> <br>
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/shushantrishav?cardType=level&theme=vue&preferLogin=false&Border=DD272700&Background=FF2D2D00&Text=31D25C&Title=31D25C&Ring=31D25C" alt="GitHub Stats" /><br>
-  <img src="https://streak-stats.demolab.com?user=shushantrishav&theme=transparent&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&stroke=00FF01&ring=00D416&fire=FF5A00&sideNums=D4D4D4&currStreakNum=EBEBEB&currStreakLabel=EBEBEB&sideLabels=D4D4D4&dates=01FF00"alt="GitHub Streak" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/SHUSHANTRISHAV?cardType=level&theme=synthwave&preferLogin=false&Background=FF2D2D00&Ring=FF5F1F&Text=FF5F1F&Title=999999&Border=FF2D2D00" alt="GitHub Stats" /><br>
+  <img src="https://streak-stats.demolab.com?user=shushantrishav&theme=transparent&hide_border=true&fire=FF5F1F&currStreakNum=FF5F1F&dates=8D8D8D&ring=FF5F1F&currStreakLabel=FF5F1F&sideNums=FF5F1F&sideLabels=FF5F1F&stroke=FF5F1F"alt="GitHub Streak" />
 
 </p>
 
