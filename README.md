@@ -61,7 +61,7 @@ A scalable machine learning pipeline for malware risk prediction on enterprise t
 ## 📊 GitHub Stats  
 
 <p align="center" >
-  <img src="https://github-stats-generator.onrender.com/stats/shushantrishav/svg/" alt="Github Top Languages" /> <br>
+  <img src="https://github-stats-generator.onrender.com/stats/shushantrishav/svg?v=2" alt="Github Top Languages" /> <br>
 </p>
 
 [leetcode]: https://leetcode.com/u/Shushantrishav/
